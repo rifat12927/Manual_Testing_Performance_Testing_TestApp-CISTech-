@@ -1,0 +1,10 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1705576238439,836,https://testapp.cisstaging.com/,200,OK,Thread Group 1-1,text,true,,196451,596,1,1,https://testapp.cisstaging.com/,768,0,667
+1705576239283,63,https://testapp.cisstaging.com/?_rsc=acgkz,200,OK,Thread Group 1-1,text,true,,4527,585,1,1,https://testapp.cisstaging.com/?_rsc=acgkz,63,0,0
+1705576239350,64,https://testapp.cisstaging.com/generator?_rsc=acgkz,200,OK,Thread Group 1-1,text,true,,5499,594,1,1,https://testapp.cisstaging.com/generator?_rsc=acgkz,63,0,0
+1705576241705,231,https://testapp.cisstaging.com/generator,200,OK,Thread Group 1-1,text,true,,709592,612,1,1,https://testapp.cisstaging.com/generator,67,0,0
+1705576241940,66,https://testapp.cisstaging.com/?_rsc=19g6o,200,OK,Thread Group 1-1,text,true,,4527,641,1,1,https://testapp.cisstaging.com/?_rsc=19g6o,66,0,0
+1705576242011,64,https://testapp.cisstaging.com/generator?_rsc=19g6o,200,OK,Thread Group 1-1,text,true,,5499,650,1,1,https://testapp.cisstaging.com/generator?_rsc=19g6o,64,0,0
+1705576242082,1424,https://api.vcard.cisstaging.com/api/storedata,204,No Content,Thread Group 1-1,text,true,,599,384,1,1,https://api.vcard.cisstaging.com/api/storedata,0,0,819
+1705576243509,374,https://api.vcard.cisstaging.com/api/storedata,200,OK,Thread Group 1-1,text,true,,819,1073,1,1,https://api.vcard.cisstaging.com/api/storedata,374,0,0
+1705576238355,3122,Test,200,"Number of samples in transaction : 8, number of failing samples : 0",Thread Group 1-1,,true,,927513,5135,1,1,null,1465,2406,1486
