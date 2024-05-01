@@ -4,7 +4,7 @@
 
 - Introduction
 - Summary
-- Test Case Works for othoba.com
+- Test Case Works for testapp.cisstaging.com
   - Test Plan
   - Mind Map
   - Report
